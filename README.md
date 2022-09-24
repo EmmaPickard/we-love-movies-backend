@@ -3,9 +3,9 @@
 ![Alt text](welovemovies-header.jpg)
 ## A demonstration of advanced backend development/RESTful API implementation using PostgreSQL and DB Manipulation.
 
-#### Full app is currently deployed via Vercel, [Click here](https://starter-movie-front-end-main-faisalkb.vercel.app/) to check it out!
+#### Full app is currently deployed via Vercel, [Click here](https://starter-movie-front-end-main-ten.vercel.app/) to check it out!
 
-#### Backend is currently deployed via Heroku. [Click here](https://protected-citadel-02485.herokuapp.com/) to check it out!**
+#### Backend is currently deployed via Heroku. [Click here](https://polar-brushlands-75164.herokuapp.com/) to check it out!**
 ** - Note: Only the backend data is deployed here. To view data, make sure to include appropriate paths, such as ```/movies``` or ```/theaters```.
 
 ## WeLoveMovies Repository Description
